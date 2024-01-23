@@ -11,7 +11,6 @@ a {
 }
 
 .visually-hidden {
-    position: absolute;
     margin: -1px;
     border: 0;
     padding: 0;
@@ -151,6 +150,7 @@ background: #2E2F42;
 /*======team*/
 
 .team {
+    background-color: #F4F4FD;
 
 }
 
@@ -166,7 +166,7 @@ background: #2E2F42;
 }
 
 .team-list {
-
+    background-color: #FFFFFF;
 }
 
 .team-item {
